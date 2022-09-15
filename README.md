@@ -6,8 +6,8 @@ perfil
 
 <div align="center">
   <a href="https://github.com/PedroDev31">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroDev31&show_icons=true&theme=monokai"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDev31&layout=compact&langs_count=7&theme=monokai"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroDev31&show_icons=true&theme=codeSTACKr"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDev31&layout=compact&langs_count=7&theme=codeSTACKr"/>
    
     
 </div
@@ -54,7 +54,7 @@ Projetos recentes
 -->
 <div>
   
-<img align="rigth" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroDev31&repo=GetTheDiamond" />
+<img align="rigth" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroDev31&repo=GetTheDiamond&theme=codeSTACKr" />
 <a href="https://github.com/anuraghazra/convoychat">
 </div>
 
