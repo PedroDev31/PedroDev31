@@ -6,8 +6,8 @@ perfil
 
 <div align="center">
   <a href="https://github.com/PedroDev31">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroDev31&show_icons=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDev31&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroDev31&show_icons=true&theme=monokai"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDev31&layout=compact&langs_count=7&theme=monokai"/>
    
     
 </div
@@ -35,13 +35,14 @@ Redes sociais
 -->
 
 <div>
-
+<a href="https://stackoverflow.com" target="_blank">
+<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 <a href="https://discordapp.com/users/5784" target="_blank">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <a href="https://br.linkedin.com" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://stackoverflow.com" target="_blank">
-<img src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a>
+<img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white"></a>
 
 
 
