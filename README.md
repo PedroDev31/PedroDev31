@@ -64,7 +64,7 @@ Projetos recentes
 <img align="rigth" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroDev31&repo=GetTheDiamond&theme=codeSTACKr" />
 <a href="https://github.com/anuraghazra/convoychat">
 
-![Snake animation](![Snake animation](https://github.com/PedroDev31/PedroDev31/blob/main/.github/workflows/cobrinha.yml))
+![Snake animation](https://github.com/PedroDev31/PedroDev31/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 
