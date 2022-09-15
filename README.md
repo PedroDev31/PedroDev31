@@ -25,6 +25,8 @@ Linguagens usadas e imagem
   <img align="center" alt="pedro-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="pedro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="right" alt="pedro-pic" height="150" style="border-radius:50px;" src="https://o.remove.bg/downloads/f00b33db-601c-406e-ac60-aa46642eb3c0/image-removebg-preview.png">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+          
  
 </div>
 
@@ -35,11 +37,11 @@ Redes sociais
 -->
 
 <div>
-<a href="https://stackoverflow.com" target="_blank">
+<a href="https://open.spotify.com/user/pedro.miguel.jor" target="_blank">
 <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
 <a href="https://discordapp.com/users/5784" target="_blank">
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<a href="https://br.linkedin.com" target="_blank">
+<a href="https://br.linkedin.com/in/pedro-miguel-teixeira-jord%C3%A3o-2434a3199" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://stackoverflow.com" target="_blank">
 <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white"></a>
