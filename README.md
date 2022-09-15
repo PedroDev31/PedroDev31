@@ -19,11 +19,9 @@ icones
   <img align="center" alt="pedro-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="pedro-css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="pedro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="right" alt="pedro-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="pedro-pic" height="150" style="border-radius:50px;" src="https://o.remove.bg/downloads/f00b33db-601c-406e-ac60-aa46642eb3c0/image-removebg-preview.png">
  
 </div>
-
-
 
 ##
 
@@ -35,10 +33,6 @@ icones
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://stackoverflow.com" target="_blank">
 <img src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a>
-
-
-
-x
 
 
 
