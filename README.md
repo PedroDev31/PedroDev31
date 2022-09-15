@@ -6,14 +6,19 @@ perfil
 
 <div align="center">
   <a href="https://github.com/PedroDev31">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroDev31&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDev31&layout=compact&langs_count=7&theme=dark"/>
-</div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=PedroDev31&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroDev31&layout=compact&langs_count=7&theme=dracula"/>
+   
+    
+</div
 
 ##
+ 
+ 
 <!--
-icones
+Linguagens usadas e imagem
 -->
+  
 <div style="display: inline_block"><br>
    <img align="center" alt="java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="pedro-html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -24,6 +29,10 @@ icones
 </div>
 
 ##
+    
+<!--
+Redes sociais
+-->
 
 <div>
 
@@ -36,11 +45,17 @@ icones
 
 
 
-
 </div>
 
-
-
+##
+ <!--
+Projetos recentes
+-->
+<div>
+  
+<img align="rigth" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroDev31&repo=GetTheDiamond" />
+<a href="https://github.com/anuraghazra/convoychat">
+</div>
 
 
   
