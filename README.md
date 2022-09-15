@@ -63,6 +63,8 @@ Projetos recentes
   
 <img align="rigth" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroDev31&repo=GetTheDiamond&theme=codeSTACKr" />
 <a href="https://github.com/anuraghazra/convoychat">
+<img align="rigth" src="https://github-readme-stats.vercel.app/api/pin/?username=PedroDev31&repo=AtividadesGerais&theme=codeSTACKr" />
+<a href="https://github.com/anuraghazra/convoychat">
 
 ![Snake animation](https://github.com/PedroDev31/PedroDev31/blob/output/github-contribution-grid-snake.svg)
 </div>
@@ -70,12 +72,6 @@ Projetos recentes
 
   
 <!--
-
-<a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://aleen42.github.io/badges/src/stackoverflow.svg" target="_blank"></a>
-
-https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
