@@ -29,7 +29,7 @@ Linguagens usadas e imagem
   <img align="center" alt="pedro-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   
    
-  <img align="right" alt="pedro-pic" height="150" style="border-radius:50px;" src="https://o.remove.bg/downloads/f00b33db-601c-406e-ac60-aa46642eb3c0/image-removebg-preview.png">
+  <img align="right" alt="pedro-pic" height="150" style="border-radius:50px;" src="https://o.remove.bg/downloads/8b9d3bd4-ed59-4536-9ae4-e05347ea7c72/image-removebg-preview.png">
   
           
  
